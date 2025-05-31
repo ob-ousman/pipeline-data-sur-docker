@@ -1,8 +1,20 @@
-# Tester la connexion
+# Vérifier que Docker est installé
+docker --version
+
+# Vérifier que Docker Compose est installé
+docker-compose --version
+
+# Vérifier que Docker est en cours d'exécution
+docker info
+
+# Vérifier la version de Docker
 docker version
 
-# Tester avec une commande simple
-docker run hello-world
+# Vérifier que Colima est installé
+colima --version
+
+# Vérifier que Colima est en cours d'exécution
+colima status
 
 # Lancer le deamon docker (MacOS)
 colima start 
