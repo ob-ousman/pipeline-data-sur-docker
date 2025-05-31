@@ -1,5 +1,7 @@
 **DEVELOPPEMENT D'UN PIPELINE DATA AVEC SPARK+KAFKA+MONGODB SUR UN ENVIRONEMENT DOCKER**
 
+![Apperçu](image.png)
+
 **1. Liste de pieces-jointes**
 - docker-compose.yml
 - pipeline.py
